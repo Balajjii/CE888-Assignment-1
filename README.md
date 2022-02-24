@@ -27,6 +27,9 @@ Heart Disease UCI Dataset:
 
 link https://www.kaggle.com/ronitf/heart-disease-uci
 
+Heart statlog Cleveland hungary dataset
 
+
+link https://www.kaggle.com/sid321axn/heart-statlog-cleveland-hungary-final
 
 
